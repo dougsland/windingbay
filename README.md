@@ -63,3 +63,7 @@ Tested with house model Xavier
 ## Solar Panel
 - [Rafael Reys - Solar Panel Broker (Sell from all companies)](https://www.facebook.com/rafael.reyes.90260)  
 - [Momemtum Company](https://www.momentumsolar.com/)
+
+## Brazilliam Market
+- [Rokkas](http://www.rokkasmarket.com/)
+- [Armazem X](https://www.instagram.com/armazemxsupermarket/?hl=en)
