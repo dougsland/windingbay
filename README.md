@@ -19,7 +19,10 @@ Winding Bay Community
 ### Jiu Jitsu
 - [Carlson Gracie Orlando](http://www.carlsongracieorlando.com/)  
   Address: 576 Maguire Rd, Ocoee, FL 34761
-  
+### Swimming
+- [SouthWest Aquatics (Competition Swimming)](http://www.southwestaquatics.com/)  
+  Address: 205 Windermere Rd, Winter Garden, FL 34787  
+
 ## Recalls
 ### Eletrical Panel
 Need to check if your house has installed [Schneider Eletrical Panel in the following FAULT models](https://www.cpsc.gov/Recalls/2022/Schneider-ElectricTM-Recalls-1-4-Million-Electrical-Panels-Due-to-Thermal-Burn-and-Fire-Hazards) and call builder for replacement.
