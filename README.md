@@ -13,7 +13,7 @@ Winding Bay Community
   * [Bathroom](#bathroom)
 
 ## Schools
-[Water Spring Elementary School](https://waterspringes.ocps.net/)
+- [Water Spring Elementary School](https://waterspringes.ocps.net/)
 
 ## Sports
 ### Jiu Jitsu
@@ -48,7 +48,7 @@ Tested with house model Xavier
 
 ## Car 
 ### Mechanical
-Igor - Mecanico Troca de Oleo: +1 (407) 789-4333  (**IN HOUSE**)
+- Igor - Mecanico Troca de Oleo: +1 (407) 789-4333  (**IN HOUSE**)
 
 ### Battery Jumpers
 - [1000 Peak Amp Power Station - Everstart](https://www.walmart.com/ip/477068813)  
