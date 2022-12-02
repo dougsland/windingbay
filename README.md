@@ -37,11 +37,11 @@ Need to check if your house has installed [Schneider Eletrical Panel in the foll
 [Spire Pest Control](https://spirepest.com/)
 
 ## Handyman
-Junior - +1 603 943 0395  
-AALL Construction - 516-410-3209
+- Junior - +1 603 943 0395  
+- AALL Construction - 516-410-3209  
 
 ## Garage
-Garage Door silence, tested with house model Xavier
+Garage Door silencer, tested with house model Xavier
 - [L Continue 4 Pack 5/16"-18 NC Garage Door Opener Vibration Isolator Kit Replacement for 89LM.](https://www.amazon.com/dp/B07KRDFBDR/ref=cm_sw_r_cp_api_i_W4231WY9P8HSD0AFN6GZ?_encoding=UTF8&psc=1)  
 - [Rubber Isolation Pads Thick Rubber Washers 1.5 Inch OD 0.5 Inch ID 0.4 Inch Thick Mechanical Vibration Damping Pads Anti Vibration Isolation Pads Rubber Isolator Washer(8 Pcs)](https://www.amazon.com/dp/B09T93N359?ref_=cm_sw_r_apin_dp_2Y5NZKJKGSVTK9NGDWQF)  
 
