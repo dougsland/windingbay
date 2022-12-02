@@ -1,4 +1,10 @@
 # windingbay
+
+## Recalls
+### Eletrical Panel
+Need to check if the garage is installed with the Schneider Eletrical Panel in the following models.
+[Schneider Eletric due Thermal Burn and Fire](https://www.cpsc.gov/Recalls/2022/Schneider-ElectricTM-Recalls-1-4-Million-Electrical-Panels-Due-to-Thermal-Burn-and-Fire-Hazards)
+
 ## Internet
 [Spectrum](https://www.spectrum.com/)
 
