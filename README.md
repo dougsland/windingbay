@@ -50,15 +50,15 @@ Garage Door silencer, tested with house model Xavier
 Igor - Mecanico Troca de Oleo: +1 (407) 789-4333  (**IN HOUSE**)
 
 ### Battery Jumpers
-[1000 Peak Amp Power Station - Everstart](https://www.walmart.com/ip/477068813)  
-[NOCO Boost X GBX75 2500 Amp](https://a.co/d/4gqaNve)
+- [1000 Peak Amp Power Station - Everstart](https://www.walmart.com/ip/477068813)  
+- [NOCO Boost X GBX75 2500 Amp](https://a.co/d/4gqaNve)
 
 ### Tires
-[Tuffy Tire and Auto Service](https://maps.app.goo.gl/HF9EfejcpSjzBVsU9?g_st=ic)
+- [Tuffy Tire and Auto Service](https://maps.app.goo.gl/HF9EfejcpSjzBVsU9?g_st=ic)
 
 ## Bathroom
-[Replace fan](https://youtu.be/oxchN4cVX5Q)
+- [Replace fan](https://youtu.be/oxchN4cVX5Q)
 
 ## Solar Panel
-[Rafael Reys - Solar Panel Broker](https://www.facebook.com/rafael.reyes.90260)  
-[Momemtum Company](https://www.momentumsolar.com/)
+- [Rafael Reys - Solar Panel Broker (Sell from all companies)](https://www.facebook.com/rafael.reyes.90260)  
+- [Momemtum Company](https://www.momentumsolar.com/)
