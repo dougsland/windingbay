@@ -14,7 +14,7 @@ Need to check if your house has installed [Schneider Eletrical Panel in the foll
 [Spire Pest Control](https://spirepest.com/)
 
 ## Handyman
-Junior - +1 603 943 0395 
+Junior - +1 603 943 0395  
 AALL Construction - 516-410-3209
 
 ## Car 
