@@ -42,3 +42,7 @@ Igor - Mecanico Troca de Oleo: +1 (407) 789-4333  (**IN HOUSE**)
 
 ## Bathroom
 [Replace fan](https://youtu.be/oxchN4cVX5Q)
+
+## Solar Panel
+[Rafael Reys - Solar Panel Broker](https://www.facebook.com/rafael.reyes.90260)  
+[Momemtum](https://www.momentumsolar.com/)
