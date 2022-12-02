@@ -13,7 +13,7 @@ Winding Bay Community
   * [Bathroom](#bathroom)
 
 ## Schools
-[Water Spring Elementary School]https://waterspringes.ocps.net/
+[Water Spring Elementary School](https://waterspringes.ocps.net/)
 
 ## Sports
 ### Jiu Jitsu
