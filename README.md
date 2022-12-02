@@ -2,7 +2,7 @@
 
 ## Recalls
 ### Eletrical Panel
-Need to check if your house has installed [Schneider Eletrical Panel in the following FAULT models and call builder for replacement.](https://www.cpsc.gov/Recalls/2022/Schneider-ElectricTM-Recalls-1-4-Million-Electrical-Panels-Due-to-Thermal-Burn-and-Fire-Hazards)
+Need to check if your house has installed [Schneider Eletrical Panel in the following FAULT models](https://www.cpsc.gov/Recalls/2022/Schneider-ElectricTM-Recalls-1-4-Million-Electrical-Panels-Due-to-Thermal-Burn-and-Fire-Hazards) and call builder for replacement.
 
 ## Internet
 [Spectrum](https://www.spectrum.com/)
